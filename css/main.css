@@ -1,0 +1,35 @@
+label {
+	float:left;
+	width:90px;
+	margin-right:10px;
+	margin-top:0px;
+	margin-bottom:20px;
+	text-align:right;
+	font-weight:bold;
+}
+
+fieldset {
+	padding: 25px;
+	margin: 25px;
+	font-family:arial, sans-serif;
+	font-style:italic;
+	width: 600px;
+	border: none;
+
+}
+
+input {
+	margin-top:0px;
+	margin-bottom:20px;
+}
+
+.clear {
+	clear:both;
+	padding:0px;
+	height:0px;
+	margin:0px;
+}
+
+.txtInput {
+	width: 300px;
+}
