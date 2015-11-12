@@ -4,7 +4,7 @@ include "myDBConnection.php";
 
 $sql = "SELECT * FROM user ORDER BY date DESC";
 $query = $pdo->query($sql);
-//$query->execute();
+
 
 ?>
 
